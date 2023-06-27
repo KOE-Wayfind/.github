@@ -8,11 +8,6 @@ Augmented Reality (AR) based navigation system for Kulliyyah of Engineering, IIU
   <img alt="KOE Wayfinder thumbnail" src="https://github.com/KOE-Wayfind/.github/assets/60868965/71744825-cb14-4a83-9147-0885bed8e14d">
 </picture>
 
-See video demonstration:
-
-https://youtu.be/rnIUBIEBne0
-
-
 ## Introduction
 
 The project, titled "**Development of Turn-by-Turn Navigation in Kulliyyah of Engineering Using Natural Landmark Detection**", aims to address the challenges of indoor navigation within the Kulliyyah of Engineering building. Traditional GPS signals are ineffective indoors, and the absence of clear landmarks makes it difficult for users to navigate and orient themselves. To overcome these limitations, the project proposes the integration of Augmented Reality (AR) technology and natural landmark detection techniques.
@@ -28,3 +23,7 @@ The primary objectives of the project include developing a marker-less localizat
 - [Jetbrains Rider](https://www.jetbrains.com/rider/)
 - [Autodesk Revit](https://asean.autodesk.com/products/revit/overview)
 - [GitHub Codespaces](https://github.com/features/codespaces)
+
+## Results
+
+See video demonstration: https://youtu.be/rnIUBIEBne0
