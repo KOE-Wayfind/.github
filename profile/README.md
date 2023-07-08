@@ -20,6 +20,11 @@ The primary objectives of the project include developing a marker-less localizat
 
 ### Main Repositories
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KOE-Wayfind/.github/assets/60868965/a59b8b7b-5a6e-4c6e-aa15-71cd0d8cc466">
+  <img alt="basic-architecture" src="https://github.com/KOE-Wayfind/.github/assets/60868965/523cb2e6-0006-43a2-9b6b-95e434951e21">
+</picture>
+
 * [KOE-Wayfinder-App](https://github.com/KOE-Wayfind/KOE-Wayfinder-App) - AR Navigation App made using Unity3D
 * [AR-server](https://github.com/KOE-Wayfind/AR-server) - Flask Python server to run the localization process
 * [Hierarchical-Localization](https://github.com/KOE-Wayfind/Hierarchical-Localization) - Modified libraries so that it can run on GitHub codespace machines and return the desired result. AR-server is using this library.
