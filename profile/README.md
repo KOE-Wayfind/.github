@@ -16,6 +16,23 @@ By leveraging AR technology, users will receive real-time visual cues and inform
 
 The primary objectives of the project include developing a marker-less localization technique using natural landmarks, building a turn-by-turn navigation system using AR, and providing an accessible solution for efficient indoor navigation within the Kulliyyah of Engineering building.
 
+## Repositories
+
+### Main Repositories
+
+* [KOE-Wayfinder-App](https://github.com/KOE-Wayfind/KOE-Wayfinder-App) - AR Navigation App made using Unity3D
+* [AR-server](https://github.com/KOE-Wayfind/AR-server) - Flask Python server to run the localization process
+* [Hierarchical-Localization](https://github.com/KOE-Wayfind/Hierarchical-Localization) - Modified libraries so that it can run on GitHub codespace machines and return the desired result. AR-server is using this library.
+
+### Data Collection
+
+* [HLOC](https://github.com/KOE-Wayfind/HLOC) - Used for data collection and study of the performance of the localization process using Hierarchical Localization Pipeline.
+
+### Database/Dataset
+
+* [koe-floor-plans](https://github.com/KOE-Wayfind/koe-floor-plans) - Kuliyyah of Engineering 2D floor plans for all levels and all building according to scale.
+* [koe-revit](https://github.com/KOE-Wayfind/koe-revit) - Floor plan that have been transform to 3D. This 3D model is used in Unity to bake the Navigation Mesh and provider AR occlusion.
+
 ## Software/tool used
 
 - [Unity 3D](https://unity.com/) (Version 2021.3)
