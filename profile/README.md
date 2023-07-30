@@ -16,6 +16,10 @@ By leveraging AR technology, users will receive real-time visual cues and inform
 
 The primary objectives of the project include developing a marker-less localization technique using natural landmarks, building a turn-by-turn navigation system using AR, and providing an accessible solution for efficient indoor navigation within the Kulliyyah of Engineering building.
 
+**Supervisor**: [Dr. Ahmad Imran](https://www.iium.edu.my/directory/show/7667)
+
+
+
 ## Repositories
 
 ### Main Repositories
